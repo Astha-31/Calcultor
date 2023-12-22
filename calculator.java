@@ -47,7 +47,7 @@ public class calculator {
                     System.out.println("Invalid choice. Please enter a number between 1 and 5.");
             }
 
-            System.out.println(); // Add a newline for better readability
+            System.out.println(); 
         }
 
         scanner.close();
